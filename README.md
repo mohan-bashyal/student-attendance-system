@@ -166,13 +166,14 @@ composer test
 The project currently includes feature-level coverage for the attendance workflow and basic Laravel starter tests.
 
 ## Screenshots
+Not available now
 
-Sample UI assets are included in the repository:
-
-- `../screenshots/login_credentials.png`
-- `../screenshots/222332.png`
-- `../AdminLTE/attendance-ui/`
-
+## Author
+- Name: `Mohan Bashyal`
+- Email: `bashyalmohan77@gmail.com`
+- GitHub: `https://github.com/mohan-bashyal`
+- LinkedIn: `https://www.linkedin.com/in/mohan-bashyal/`
+  
 ## Why This Project Matters
 
 This project highlights practical software engineering skills relevant for internships and junior backend or full-stack roles:
